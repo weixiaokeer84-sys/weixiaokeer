@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 一级消防工程师智能学习助手",
+  "description": "一级注册消防工程师智能备考学习平台，提供历年真题库、名师讲解、智能错题解析、每日两小时高效规划及阶段性测试报告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
